@@ -21,6 +21,12 @@ Plugin 'VundleVim/Vundle.vim'
 " NERDTree
 Plugin 'scrooloose/nerdtree'
 
+" YCM
+Plugin 'Valloric/YouCompleteMe'
+
+" indentLine
+Plugin 'Yggdroot/indentLine'
+
 " All of Plugins must be added before the following line
 call vundle#end()
 filetype plugin indent on " required
